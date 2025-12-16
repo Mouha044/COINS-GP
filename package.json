@@ -1,0 +1,29 @@
+{
+  "name": "coins-gp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Un site pour le transport de colis",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src/",
+    "deploy": "npm run build && echo 'Déploiement réussi!'"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.556.0",
+    "recharts": "^3.5.1",
+    "react-router-dom": "^6.20.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "^5.8.2",
+    "vite": "^5.0.0"
+  }
+}
