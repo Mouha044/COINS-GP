@@ -1,0 +1,2 @@
+<?php
+// Rating Model

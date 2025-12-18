@@ -1,0 +1,2 @@
+<?php
+// Trip Model

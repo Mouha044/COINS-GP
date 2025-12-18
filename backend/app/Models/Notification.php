@@ -1,0 +1,2 @@
+<?php
+// Notification Model
